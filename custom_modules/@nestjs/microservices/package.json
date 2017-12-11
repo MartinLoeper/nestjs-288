@@ -1,0 +1,6 @@
+{
+    "name": "@nestjs/microservices",
+    "description": "A modified version of the official nestjs/microservices module.",
+    "version": "0.0.1",
+    "devDependencies": {}
+}
